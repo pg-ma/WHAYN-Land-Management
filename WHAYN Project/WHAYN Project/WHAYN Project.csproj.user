@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="AreaDetails.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Browse.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="BuyLandApplication.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ConfirmationPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="DocumentViewer.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Home.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="LstEngr.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Sell.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="SellConfirmationPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Survey.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Tracker.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="TrackerNum.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="AreaDetails.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Browse.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="BuyLandApplication.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ConfirmationPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="DocumentViewer.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Home.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="LstEngr.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Sell.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="SellConfirmationPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Survey.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Tracker.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="TrackerNum.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>

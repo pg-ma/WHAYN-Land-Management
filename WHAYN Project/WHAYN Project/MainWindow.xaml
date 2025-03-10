@@ -1,0 +1,158 @@
+﻿<Window
+    x:Class="WHAYN_Project.MainWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:fa="http://schemas.fontawesome.io/icons/"
+    xmlns:local="clr-namespace:WHAYN_Project"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    Title="W/HAYN"
+    Width="800"
+    Height="450"
+    mc:Ignorable="d"
+    Icon="/Image/Logo.png"
+    Loaded="Window_Loaded">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="0.3*" />
+            <!--<ColumnDefinition Width="0.02*" />-->
+            <ColumnDefinition Width="*" />
+        </Grid.ColumnDefinitions>
+
+
+        <Grid Background="#FF6D9773">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*" />
+                <RowDefinition Height="0.5*" />
+                <RowDefinition Height="0.5*" />
+                <RowDefinition Height="0.5*" />
+                <RowDefinition Height="0.5*" />
+                <RowDefinition Height="0.5*" />
+                <RowDefinition Height="*" />
+
+            </Grid.RowDefinitions>
+
+            <Grid Margin="20">
+                <TextBlock
+                    HorizontalAlignment="Center"
+                    VerticalAlignment="Center"
+                    FontFamily="Felix Titling"
+                    FontSize="25"
+                    FontWeight="Heavy"
+                    Foreground="White"
+                    Text="W/HAYN" />
+                <!--<fa:FontAwesome
+                    HorizontalAlignment="Left"
+                    VerticalAlignment="Center"
+                    FontSize="25"
+                    Icon="Globe" />-->
+            </Grid>
+
+            <Grid Grid.Row="1">
+                <Button
+                    x:Name="HOME"
+                    Padding="60,0,0,0"
+                    HorizontalContentAlignment="Left"
+                    Background="#FF6D9773"
+                    Click="HOME_Click"
+                    Content="Home"
+                    FontFamily="Cambria"
+                    FontSize="12"
+                    Foreground="White" BorderBrush="ForestGreen"/>
+                <fa:FontAwesome
+                    Margin="20,0,0,0"
+                    HorizontalAlignment="Left"
+                    VerticalAlignment="Center"
+                    FontSize="20"
+                    Foreground="White"
+                    Icon="Home" />
+            </Grid>
+
+            <Grid Grid.Row="2">
+                <Button
+                    x:Name="BROWSE"
+                    Padding="60,0,0,0"
+                    HorizontalContentAlignment="Left"
+                    Background="#FF6D9773"
+                    Click="BROWSE_Click"
+                    Content="Browse"
+                    FontFamily="Cambria"
+                    FontSize="12"
+                    Foreground="White" BorderBrush="ForestGreen"/>
+                <fa:FontAwesome
+                    Margin="20,0,0,0"
+                    HorizontalAlignment="Left"
+                    VerticalAlignment="Center"
+                    FontSize="20"
+                    Foreground="White"
+                    Icon="Safari" />
+            </Grid>
+
+            <Grid Grid.Row="3">
+                <Button
+                    Padding="60,0,0,0"
+                    HorizontalContentAlignment="Left"
+                    Background="#FF6D9773"
+                    Click="TRACKER_Click"
+                    Content="Tracker"
+                    FontFamily="Cambria"
+                    FontSize="12"
+                    Foreground="#FFFFFCFC" BorderBrush="ForestGreen"/>
+                <fa:FontAwesome
+                    Margin="25,0,0,0"
+                    HorizontalAlignment="Left"
+                    VerticalAlignment="Center"
+                    FontSize="20"
+                    Foreground="White"
+                    Icon="User" />
+            </Grid>
+
+            <Grid Grid.Row="4">
+                <Button
+                    Padding="60,0,0,0"
+                    HorizontalContentAlignment="Left"
+                    Background="#FF6D9773"
+                    Click="LstOfEngrBtn_Click"
+                    Content="Engineers"
+                    FontFamily="Cambria"
+                    FontSize="12"
+                    Foreground="White" 
+                    BorderBrush="ForestGreen"/>
+                <fa:FontAwesome
+                    Margin="20,0,0,0"
+                    HorizontalAlignment="Left"
+                    VerticalAlignment="Center"
+                    FontSize="20"
+                    Foreground="White"
+                    Icon="Empire" 
+                    />
+            </Grid>
+
+            <Grid Grid.Row="5">
+                <Button
+                    Padding="60,0,0,0"
+                    HorizontalContentAlignment="Left"
+                    Background="#FF6D9773"
+                    Click="Button_Click"
+                    Content="Power Off"
+                    FontSize="12"
+                    Foreground="White" BorderBrush="ForestGreen"/>
+                <fa:FontAwesome
+                    Margin="20,0,0,0"
+                    HorizontalAlignment="Left"
+                    VerticalAlignment="Center"
+                    FontSize="20"
+                    Foreground="White"
+                    Icon="PowerOff" />
+            </Grid>
+        </Grid>
+
+        <Grid Grid.Column="1">
+            <ContentControl x:Name="CC" Content="" />
+            <Grid.Background>
+                <ImageBrush ImageSource="/Image/cutie panda.png" />
+            </Grid.Background>
+        </Grid>
+
+    </Grid>
+</Window>

@@ -1,0 +1,44 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <RootNamespace>WHAYN_Project</RootNamespace>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Image\1.jpg" />
+    <None Remove="Image\2.jpg" />
+    <None Remove="Image\3.jpg" />
+    <None Remove="Image\4.jpg" />
+    <None Remove="Image\5.jfif" />
+    <None Remove="Image\6.png" />
+    <None Remove="Image\7.jpg" />
+    <None Remove="Image\8.jpg" />
+    <None Remove="Image\Bg.jpg" />
+    <None Remove="Image\cutie panda.png" />
+    <None Remove="Image\Logo.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Bogus" Version="34.0.2" />
+    <PackageReference Include="FontAwesome.WPF" Version="4.7.0.9" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Image\1.jpg" />
+    <Resource Include="Image\2.jpg" />
+    <Resource Include="Image\3.jpg" />
+    <Resource Include="Image\4.jpg" />
+    <Resource Include="Image\5.jfif" />
+    <Resource Include="Image\6.png" />
+    <Resource Include="Image\7.jpg" />
+    <Resource Include="Image\8.jpg" />
+    <Resource Include="Image\Bg.jpg" />
+    <Resource Include="Image\cutie panda.png" />
+    <Resource Include="Image\Logo.png" />
+  </ItemGroup>
+
+</Project>

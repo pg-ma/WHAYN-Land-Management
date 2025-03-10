@@ -1,0 +1,50 @@
+C:\Users\USER\Downloads\WHAYN Project\WHAYN Project\bin\Debug\net6.0-windows\WHAYN Project.exe
+C:\Users\USER\Downloads\WHAYN Project\WHAYN Project\bin\Debug\net6.0-windows\WHAYN Project.deps.json
+C:\Users\USER\Downloads\WHAYN Project\WHAYN Project\bin\Debug\net6.0-windows\WHAYN Project.runtimeconfig.json
+C:\Users\USER\Downloads\WHAYN Project\WHAYN Project\bin\Debug\net6.0-windows\WHAYN Project.dll
+C:\Users\USER\Downloads\WHAYN Project\WHAYN Project\bin\Debug\net6.0-windows\WHAYN Project.pdb
+C:\Users\USER\Downloads\WHAYN Project\WHAYN Project\bin\Debug\net6.0-windows\Bogus.dll
+C:\Users\USER\Downloads\WHAYN Project\WHAYN Project\bin\Debug\net6.0-windows\FontAwesome.WPF.dll
+C:\Users\USER\Downloads\WHAYN Project\WHAYN Project\obj\Debug\net6.0-windows\WHAYN Project.csproj.AssemblyReference.cache
+C:\Users\USER\Downloads\WHAYN Project\WHAYN Project\obj\Debug\net6.0-windows\AreaDetails.g.cs
+C:\Users\USER\Downloads\WHAYN Project\WHAYN Project\obj\Debug\net6.0-windows\Browse.g.cs
+C:\Users\USER\Downloads\WHAYN Project\WHAYN Project\obj\Debug\net6.0-windows\BuyLandApplication.g.cs
+C:\Users\USER\Downloads\WHAYN Project\WHAYN Project\obj\Debug\net6.0-windows\ConfirmationPage.g.cs
+C:\Users\USER\Downloads\WHAYN Project\WHAYN Project\obj\Debug\net6.0-windows\DocumentViewer.g.cs
+C:\Users\USER\Downloads\WHAYN Project\WHAYN Project\obj\Debug\net6.0-windows\Home.g.cs
+C:\Users\USER\Downloads\WHAYN Project\WHAYN Project\obj\Debug\net6.0-windows\LstEngr.g.cs
+C:\Users\USER\Downloads\WHAYN Project\WHAYN Project\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\USER\Downloads\WHAYN Project\WHAYN Project\obj\Debug\net6.0-windows\Sell.g.cs
+C:\Users\USER\Downloads\WHAYN Project\WHAYN Project\obj\Debug\net6.0-windows\SellConfirmationPage.g.cs
+C:\Users\USER\Downloads\WHAYN Project\WHAYN Project\obj\Debug\net6.0-windows\Tracker.g.cs
+C:\Users\USER\Downloads\WHAYN Project\WHAYN Project\obj\Debug\net6.0-windows\TrackerNum.g.cs
+C:\Users\USER\Downloads\WHAYN Project\WHAYN Project\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\USER\Downloads\WHAYN Project\WHAYN Project\obj\Debug\net6.0-windows\WHAYN Project_MarkupCompile.cache
+C:\Users\USER\Downloads\WHAYN Project\WHAYN Project\obj\Debug\net6.0-windows\WHAYN Project_MarkupCompile.lref
+C:\Users\USER\Downloads\WHAYN Project\WHAYN Project\obj\Debug\net6.0-windows\AreaDetails.baml
+C:\Users\USER\Downloads\WHAYN Project\WHAYN Project\obj\Debug\net6.0-windows\Browse.baml
+C:\Users\USER\Downloads\WHAYN Project\WHAYN Project\obj\Debug\net6.0-windows\BuyLandApplication.baml
+C:\Users\USER\Downloads\WHAYN Project\WHAYN Project\obj\Debug\net6.0-windows\ConfirmationPage.baml
+C:\Users\USER\Downloads\WHAYN Project\WHAYN Project\obj\Debug\net6.0-windows\DocumentViewer.baml
+C:\Users\USER\Downloads\WHAYN Project\WHAYN Project\obj\Debug\net6.0-windows\Home.baml
+C:\Users\USER\Downloads\WHAYN Project\WHAYN Project\obj\Debug\net6.0-windows\LstEngr.baml
+C:\Users\USER\Downloads\WHAYN Project\WHAYN Project\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\USER\Downloads\WHAYN Project\WHAYN Project\obj\Debug\net6.0-windows\Sell.baml
+C:\Users\USER\Downloads\WHAYN Project\WHAYN Project\obj\Debug\net6.0-windows\SellConfirmationPage.baml
+C:\Users\USER\Downloads\WHAYN Project\WHAYN Project\obj\Debug\net6.0-windows\Tracker.baml
+C:\Users\USER\Downloads\WHAYN Project\WHAYN Project\obj\Debug\net6.0-windows\TrackerNum.baml
+C:\Users\USER\Downloads\WHAYN Project\WHAYN Project\obj\Debug\net6.0-windows\WHAYN Project.g.resources
+C:\Users\USER\Downloads\WHAYN Project\WHAYN Project\obj\Debug\net6.0-windows\WHAYN Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Downloads\WHAYN Project\WHAYN Project\obj\Debug\net6.0-windows\WHAYN Project.AssemblyInfoInputs.cache
+C:\Users\USER\Downloads\WHAYN Project\WHAYN Project\obj\Debug\net6.0-windows\WHAYN Project.AssemblyInfo.cs
+C:\Users\USER\Downloads\WHAYN Project\WHAYN Project\obj\Debug\net6.0-windows\WHAYN Project.csproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\WHAYN Project\WHAYN Project\obj\Debug\net6.0-windows\WHAYN Project.csproj.CopyComplete
+C:\Users\USER\Downloads\WHAYN Project\WHAYN Project\obj\Debug\net6.0-windows\WHAYN Project.dll
+C:\Users\USER\Downloads\WHAYN Project\WHAYN Project\obj\Debug\net6.0-windows\refint\WHAYN Project.dll
+C:\Users\USER\Downloads\WHAYN Project\WHAYN Project\obj\Debug\net6.0-windows\WHAYN Project.pdb
+C:\Users\USER\Downloads\WHAYN Project\WHAYN Project\obj\Debug\net6.0-windows\WHAYN Project.genruntimeconfig.cache
+C:\Users\USER\Downloads\WHAYN Project\WHAYN Project\obj\Debug\net6.0-windows\ref\WHAYN Project.dll
+C:\Users\USER\Downloads\WHAYN Project\WHAYN Project\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\USER\Downloads\WHAYN Project\WHAYN Project\obj\Debug\net6.0-windows\App.baml
+C:\Users\USER\Downloads\WHAYN Project\WHAYN Project\obj\Debug\net6.0-windows\Survey.g.cs
+C:\Users\USER\Downloads\WHAYN Project\WHAYN Project\obj\Debug\net6.0-windows\Survey.baml
